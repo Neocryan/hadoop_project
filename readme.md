@@ -4,7 +4,7 @@ __title:__
 
 __Big Data Algorithm Project__
 
-__author: __
+__author:__
 
 __Xiaoyu Tian (B00717090)__
 	
