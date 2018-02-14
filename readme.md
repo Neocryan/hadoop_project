@@ -1,16 +1,20 @@
 
 ---
-title:  Big Data Algorithm Project
+__title:__  
 
-author: 
+__Big Data Algorithm Project__
 
-Xiaoyu Tian (B00717090)
+__author: __
+
+__Xiaoyu Tian (B00717090)__
 	
-Tailai Zhang
+__Tailai Zhang (B00463140)__
 	
-Dongxue Shao
+__Dongxue Shao(B00721800)__
 
-date: 06/02/2018
+__date:__
+
+__06/02/2018__
 _________
 ![Big Data Algorithm Project](https://lh3.googleusercontent.com/12taJ9hE8ROoMCX_CRkfqvuBa_uGgYiGhVoS_SmwV-FKb1WNo36JdANRQePZOTTAP07YMl0HwCiBJw)
 
