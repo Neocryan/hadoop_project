@@ -2,11 +2,13 @@
 ---
 title:  Big Data Algorithm Project
 
-author: Xiaoyu Tian (B00717090)
+author: 
+
+Xiaoyu Tian (B00717090)
 	
-	Tailai Zhang
+Tailai Zhang
 	
-	Dongxue Shao
+Dongxue Shao
 
 date: 06/02/2018
 _________
